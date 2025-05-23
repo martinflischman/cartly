@@ -1,6 +1,11 @@
 {
-  "name": "Add to Cart",
-  "short_name": "Add to Cart",
+  "name": "Cartly",
+  "short_name": "Cart",
+  "description": "A simple shopping cart application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef0f4",
+  "theme_color": "#432000",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -12,8 +17,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#EEF0F4",
-  "background_color": "#EEF0F4",
-  "display": "standalone"
+  ]
 }
