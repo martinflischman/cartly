@@ -85,7 +85,7 @@ export default function LoginPage() {
   };
 
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen bg-violet-100 px-2">
+    <main className="flex flex-col items-center justify-center min-h-screen px-2">
       <VerifyEmailModal
         open={showVerifyModal}
         onClose={() => {
